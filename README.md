@@ -1,4 +1,4 @@
-# CodeRoad Rewire
+# Rewire CodeRoad
 
 Implementation for testing globals in the interactive coding tutorial framework [CodeRoad](https://coderoad.github.io).
 

@@ -1,5 +1,5 @@
 {
-  "name": "coderoad-rewire",
+  "name": "rewire-coderoad",
   "version": "0.1.0",
   "description": "CodeRoad implementation to override 'require' in order to monkey-patch test globals",
   "keywords": [
