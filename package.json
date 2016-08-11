@@ -1,7 +1,7 @@
 {
-  "name": "rewire",
-  "version": "2.5.2",
-  "description": "Easy dependency injection for node.js unit testing",
+  "name": "coderoad-rewire",
+  "version": "0.1.0",
+  "description": "CodeRoad implementation to override 'require' in order to monkey-patch test globals",
   "keywords": [
     "dependency",
     "injection",
@@ -16,21 +16,19 @@
     "require"
   ],
   "author": {
-    "name": "Johannes Ewald",
-    "email": "mail@johannesewald.de"
+    "name": "Shawn McKay",
+    "email": "shawn.j.mckay@gmail.com"
   },
   "main": "lib/index.js",
-  "homepage": "https://github.com/jhnns/rewire",
   "bugs": {
-    "url": "https://github.com/jhnns/rewire/issues",
-    "email": "mail@johannesewald.de"
+    "url": "https://github.com/shmck/coderoad-rewire",
+    "email": "shawn.j.mckay@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jhnns/rewire.git"
+    "url": "git://github.com/shmck/coderoad-rewire.git"
   },
   "devDependencies": {
-    "coffee-script": "^1.8.0",
     "expect.js": "^0.3.1",
     "mocha": "^2.1.0"
   },
