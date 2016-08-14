@@ -1,6 +1,10 @@
 Changelog
 ---------
 
+## 3.1.0
+- remove "use strict" checking, opt always for use strict
+- add `__text__` property, allowing easy access to the text output of a file
+
 ### 3.0.0
 - Capture imports and add them to the global scope for testing
 
