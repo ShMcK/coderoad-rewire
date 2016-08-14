@@ -1,6 +1,9 @@
 Changelog
 ---------
 
+### 3.0.0
+- Capture imports and add them to the global scope for testing
+
 ### 2.5.2
 - Fix cluttering of `require.extensions` even if CoffeeScript is not installed [#98](https://github.com/jhnns/rewire/pull/98)
 
