@@ -1,6 +1,6 @@
 {
   "name": "rewire-coderoad",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "CodeRoad implementation to override 'require' in order to monkey-patch test globals",
   "keywords": [
     "dependency",
@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
-    "mocha": "^2.1.0"
+    "mocha": "^3.0.2"
   },
   "license": "MIT",
   "scripts": {
