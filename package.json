@@ -1,18 +1,11 @@
 {
   "name": "rewire-coderoad",
-  "version": "3.1.1",
-  "description": "CodeRoad implementation to override 'require' in order to monkey-patch test globals",
+  "version": "3.1.2",
+  "description": "CodeRoad implementation to override 'require' in order to test globals",
   "keywords": [
+    "coderoad",
     "dependency",
     "injection",
-    "mock",
-    "shim",
-    "module",
-    "unit",
-    "test",
-    "leak",
-    "inspect",
-    "fake",
     "require"
   ],
   "author": {
